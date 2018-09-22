@@ -1,0 +1,23 @@
+{
+  "Users" : {
+    "uid_01" : {
+      "email" : "",
+      "firstName" : "",
+      "lastName" : "",
+	  "cart" :[""]
+    }
+  },
+  
+  "Items": {
+	  "iid_01": {
+		"UPC": "",
+		"name": "",
+		"description": "",
+		"price": 0.00,
+		"onSale": false,
+		"salePrice": 0.00,
+		"department": "",
+		"taxable": false
+	}
+  }
+}
